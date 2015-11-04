@@ -1,8 +1,9 @@
-//this is added coment in wayback
+//git ammend
+
 #include<stdio.h>
 int main()
 {
-printf("hello world");
+printf("hello world this is second comit");
 return 0;
 
 }
