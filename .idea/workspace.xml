@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="176dae55-1b5e-46da-add2-1a8466d38318" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testing.js" />
-    </list>
+    <list default="true" id="176dae55-1b5e-46da-add2-1a8466d38318" name="Default" comment="" />
     <ignored path="Mytest.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -382,12 +380,12 @@
       <created>1447217131431</created>
       <option name="number" value="Default" />
       <updated>1447217131431</updated>
-      <workItem from="1447217132592" duration="240000" />
+      <workItem from="1447217132592" duration="404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240000" />
+    <option name="totallyTimeSpent" value="404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1215" height="1028" extended-state="6" />
