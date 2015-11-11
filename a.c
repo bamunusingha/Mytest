@@ -1,4 +1,4 @@
-//git ammend
+//Edited using git editor
 
 #include<stdio.h>
 int main()
